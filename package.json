@@ -1,0 +1,24 @@
+{
+  "name": "webpack-dem0",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urhari05/webpack-dem0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/urhari05/webpack-dem0/issues"
+  },
+  "homepage": "https://github.com/urhari05/webpack-dem0#readme",
+  "description": "",
+  "devDependencies": {
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  }
+}
