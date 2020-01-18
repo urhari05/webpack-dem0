@@ -4,5 +4,4 @@ import { ComponentService } from "./app/component.service";
 import "./main.scss";
 const alertService = new AlertService();
 const componentService = new ComponentService();
-console.log("helllooo");
 run(alertService, componentService);
